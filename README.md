@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **small web development projects**
 
-- 🌱 I’m currently learning: **React, SQL and Data Structures & Algorithms**
+- 🌱 I’m currently learning: **React, MySQL and SQLite**
 
 - 💬 Ask me about: **Python, HTML, CSS and JavaScript basics**
 
