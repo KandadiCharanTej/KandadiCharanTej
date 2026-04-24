@@ -7,7 +7,9 @@
 - 👯 I’m looking to collaborate on: **beginner friendly open source projects**
 - 👨‍💻 All of my projects are available on this GitHub profile
 - ⚡ Fun fact: **I enjoy building things and figuring out how they work**
-- 📫 How to reach me: **kandadicharantej21@gmail.com**
+- 📫 How to reach me: 
+Gmail - **kandadicharantej21@gmail.com**
+Linkedin - **linkedin.com/in/kandadicharantej**
 
 <h3 align="left">Languages and Tools:</h3>
 
