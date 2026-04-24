@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **I enjoy building things and figuring out how they work**
 - 📫 How to reach me: 
   - Gmail - **kandadicharantej21@gmail.com**
-  - Linkedin - **linkedin.com/in/kandadicharantej**
+  - Linkedin - **[linkedin.com/in/kandadicharantej](https://linkedin.com/in/kandadicharantej)**
 
 <h3 align="left">Languages and Tools:</h3>
 
